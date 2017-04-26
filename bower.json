@@ -1,0 +1,28 @@
+{
+  "name": "purescript-flatpickr-halogen",
+  "homepage": "git://github.com/themoritz/purescript-flatpickr-halogen.git",
+  "authors": [
+    "Moritz Drexl <mdrexl@fastmail.fm>"
+  ],
+  "description": "Halogen component for the Flatpickr date picker",
+  "keywords": [
+    "purescript",
+    "halogen",
+    "ace"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/themoritz/purescript-flatpickr-halogen.git"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "purescript-halogen": "^2.0.1",
+    "purescript-flatpickr": "^1.0.0"
+  }
+}
